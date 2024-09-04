@@ -21,5 +21,5 @@ This is a Telegram bot designed to help you track your daily expenses by categor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker-bot.git
+   git clone https://github.com/khachikmiroian/expense-tracker-bot
    cd expense-tracker-bot
