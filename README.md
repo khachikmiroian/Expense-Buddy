@@ -1,4 +1,4 @@
-# Expense Tracker Bot
+# Expense Buddy - Personal Finance Tracker Bot
 
 This is a Telegram bot designed to help you track your daily expenses by category, display statistics over different periods, and manage your expense records. The bot uses a simple CSV file to store expense data and offers a user-friendly interface for adding, viewing, and deleting expenses.
 
@@ -21,5 +21,5 @@ This is a Telegram bot designed to help you track your daily expenses by categor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/khachikmiroian/expense-tracker-bot
+   git clone https://github.com/khachikmiroian/Expense-Buddy
    cd expense-tracker-bot
